@@ -1,6 +1,6 @@
 <?php
 
-$nama = "Budi Santoso";
+$nama = "Satria";
 $kelas = "XII RPL 3";
 $nilaiTugas = 85;
 $nilaiUTS = 80;
